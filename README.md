@@ -37,7 +37,6 @@ References: <br>
 ## Ablation experiment results of FEL, MSFSConv, IIFL, and GFFL in MSFSRNet on the image denoising task with σ=50 and Kodak24 dataset
 ![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)
 
-![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png)
 ## Hyperparameter sensitivity analysis in denoising task
 
 ![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)
