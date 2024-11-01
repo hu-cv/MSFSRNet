@@ -24,20 +24,13 @@ Hi! You are welcome to visit here! This repository will be used to release the c
 References:
 
 [1] Julien Mairal, Francis R. Bach, Jean Ponce, Guillermo Sapiro, Andrew Zisserman: Non-local sparse models for image restoration. IEEE 12th International Conference on Computer Vision, ICCV 2009: 2272-2279. https://doi.org/10.1109/ICCV.2009.5459452
-
 [2] Stefan Roth, Michael J. Black:Fields of Experts: A Framework for Learning Image Priors.2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2005), 20-26 June 2005, San Diego, CA, USA.: 860-867. https://doi.org/10.1109/CVPR.2005.160
-
 [3] Franzen R (1999) Kodak lossless true color image suite vol 4, https://r0k.us/graphics/kodak.
-
 [4] Lei Zhang, Xiaolin Wu, Antoni Buades, Xin Li: Color demosaicking by local directional interpolation and nonlocal adaptive thresholding. J. Electronic Imaging 20(2): 023016 (2011). https://doi.org/10.1117/1.3600632
-
 [5] Marco Bevilacqua, Aline Roumy, Christine Guillemot, Marie-Line Alberi-Morel:Low-Complexity Single-Image Super-Resolution based on Nonnegative Neighbor Embedding. BMVC 2012: 1-10. https://doi.org/10.5244/C.26.135
-
 [6] Roman Zeyde, Michael Elad, Matan Protter:On Single Image Scale-Up Using Sparse-Representations. Curves and Surfaces 2010: 711-730. https://doi.org/10.1007/978-3-642-27413-8_47
 [7] David R. Martin, Charless C. Fowlkes, Doron Tal, Jitendra Malik: A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics. Proceedings of the Eighth International Conference On Computer Vision (ICCV-01), Vancouver, British Columbia, Canada, July 7-14, 2001: 416-425. https://doi.org/10.1109/ICCV.2001.937655.
-
 [8] Jia-Bin Huang, Abhishek Singh, Narendra Ahuja:Single image super-resolution from transformed self-exemplars.IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015, Boston, MA, USA, June 7-12, 2015.:5197-5206. https://doi.org/10.1109/CVPR.2015.7299156
-
 [9] Yusuke Matsui, Kota Ito, Yuji Aramaki, Azuma Fujimoto, Toru Ogawa, Toshihiko Yamasaki, Kiyoharu Aizawa:Sketch-based manga retrieval using manga109 dataset. Multim. Tools Appl. 76(20): 21811-21838 (2017). https://doi.org/10.1007/s11042-016-4020-z.
 
 # Experimental Results
