@@ -22,6 +22,7 @@ Hi! You are welcome to visit here! This repository will be used to release the c
 * **Manage109**
 
 References:
+
 [1] Julien Mairal, Francis R. Bach, Jean Ponce, Guillermo Sapiro, Andrew Zisserman: Non-local sparse models for image restoration. IEEE 12th International Conference on Computer Vision, ICCV 2009: 2272-2279. https://doi.org/10.1109/ICCV.2009.5459452
 
 [2] Stefan Roth, Michael J. Black:Fields of Experts: A Framework for Learning Image Priors.2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2005), 20-26 June 2005, San Diego, CA, USA.: 860-867. https://doi.org/10.1109/CVPR.2005.160
