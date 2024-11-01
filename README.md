@@ -14,21 +14,17 @@ Residual dense network-based models have been widely and successfully used in th
 * **SIDD**
 * **DND**
 ## Image super-resolution
-### **Set5**
-### **Set14**
-### **BSD100**
-### **Urban100**
-### **Manage109**
+* **Set5**
+* **Set14**
+* **BSD100**
+* **Urban100**
+* **Manage109**
 # Experimental Results
 ## Image Denoising
 ###  Gray-Scale Image Denoising
 
-
 ###  Synthetic Color Image Denoising
 
-
- 
 ###  Real-World Color Image Denoising
-
 
 ## Image super-resolution
