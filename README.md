@@ -34,7 +34,9 @@ References: <br>
 [8] Jia-Bin Huang, Abhishek Singh, Narendra Ahuja:Single image super-resolution from transformed self-exemplars.IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015, Boston, MA, USA, June 7-12, 2015.:5197-5206. https://doi.org/10.1109/CVPR.2015.7299156 <br>
 [9] Yusuke Matsui, Kota Ito, Yuji Aramaki, Azuma Fujimoto, Toru Ogawa, Toshihiko Yamasaki, Kiyoharu Aizawa:Sketch-based manga retrieval using manga109 dataset. Multim. Tools Appl. 76(20): 21811-21838 (2017). https://doi.org/10.1007/s11042-016-4020-z. <br>
 # Experimental Result
-## Image Denoising
+## Ablation experiment results of FEL, MSFSConv, IIFL, and GFFL in MSFSRNet on the image denoising task with σ=50 and Kodak24 dataset
 
-## Image super-resolution
+![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png)
+
+
 
