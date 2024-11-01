@@ -38,7 +38,7 @@ References: <br>
 ![image] [[(https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)](https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)]
 
 
-## Hyperparameter Sensitivity Analysis in denoising task
+## Hyperparameter sensitivity analysis in denoising task
 
 ![image][[https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)]
 
