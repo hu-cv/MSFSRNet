@@ -40,6 +40,6 @@ References: <br>
 
 ## Hyperparameter sensitivity analysis in denoising task
 
-![image][[https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)]
+![image](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)
 
 
