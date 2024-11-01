@@ -35,11 +35,11 @@ References: <br>
 [9] Yusuke Matsui, Kota Ito, Yuji Aramaki, Azuma Fujimoto, Toru Ogawa, Toshihiko Yamasaki, Kiyoharu Aizawa:Sketch-based manga retrieval using manga109 dataset. Multim. Tools Appl. 76(20): 21811-21838 (2017). https://doi.org/10.1007/s11042-016-4020-z. <br>
 # Experimental Result
 ## Ablation experiment results of FEL, MSFSConv, IIFL, and GFFL in MSFSRNet on the image denoising task with σ=50 and Kodak24 dataset
-![image] [[(https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)](https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)]
+![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)
 
-
+![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png)
 ## Hyperparameter sensitivity analysis in denoising task
 
-![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)
+![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)
 
 
