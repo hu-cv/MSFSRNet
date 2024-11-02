@@ -41,4 +41,4 @@ References: <br>
 
 ![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)
 
-Figure 11-1. (a) Investigation of C, (b) Investigation of D, (c) Investigation of G, (d) Investigation of S in denoising task.
+Figure 1. (a) Investigation of C, (b) Investigation of D, (c) Investigation of G, (d) Investigation of S in denoising task.
