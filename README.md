@@ -7,7 +7,6 @@ Hi! You are welcome to visit here! This repository will be used to release the c
 # Experimental Datasets
 ## Image Denoising
 ###  Gray-Scale Image Denoising
-<font color=blue size=3>null</font>
 * **BSD68 [1]** :BSD68 is a grayscale image converted from the CBSD68 dataset.
 * **Set12 [2]** :Set12 is a collection of 12 grayscale images of different scenes that are widely used for evaluation of image denoising methods. The size of each image is 256×256.
 ###  Synthetic Color Image Denoising
