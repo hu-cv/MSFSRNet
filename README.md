@@ -1,5 +1,5 @@
 # MSFSRNet
-Hi! You are welcome to visit here! This repository will be used to release the code of a novel image restoration model called the Residual Network with Multi-skip Feature Sharing (abbreviated as MSFSRNet), which has been proposed in our paper entitled "MSFSRNet: Residual Network with Multi-skip Feature Sharing for Image Restoration" submitted to the International journal of XXX. **NOTE that once our manuscript is accepted by the journal, we will release the code immediately**. 
+Hi! You are welcome to visit here! This repository will be used to release the code of a novel image restoration model called the Residual Network with Multi-skip Feature Sharing (abbreviated as MSFSRNet), which has been proposed in our paper entitled "MSFSRNet: Residual Network with Multi-skip Feature Sharing for Image Restoration" submitted to the International journal of Applied Intelligence. **NOTE that once our manuscript is accepted by the journal, we will release the code immediately**. 
 ## Abstract
 
  <p> Residual dense network-based models have been widely and successfully used in the field of image restoration in recent years because of their enhanced feature propagation and anti-overfitting capabilities. However, existing residual dense network-based models have the following defects: 1) The convolution blocks in the model usually use dense connections, so that local features are captured repeatedly, which adds too many redundant features. 2) Each layer in the convolution block contains only one convolution layer, which reduces the representation ability of the convolution block, resulting in poor results in extracting local features by the convolution block. 3) The convolution blocks form a feature flow through simple connections, making it difficult to effectively fuse global features, which results in the lack of detail information in the reconstructed image. To overcome the shortcomings of residual dense network-based models, this paper addresses the problem of image restoration by proposing a novel image restoration model called the Residual Network with Multi-skip Feature Sharing (abbreviated as MSFSRNet). In MSFSRNet, the dense connections in the residual dense network are replaced with multi-skip connections to form a multi-skip feature sharing residual block (MSFSRB), which reduces the number of redundant features. Each layer in MSFSRB contains two convolutional layers, called multi-skip feature sharing convolutional layers (MSFSConv), which improves the extraction of local features in MSFSRB. In addition, we insert a feature enhancement layer after each MSFSRB to better integrate global features. Extensive experiments on 11 synthetic datasets and real-world datasets show that our MSFSRNet model outperforms the state-of-the-art models in two image restoration tasks including image super-resolution and image denoising. </p>
@@ -35,14 +35,3 @@ References: <br>
 [9] David R. Martin, Charless C. Fowlkes, Doron Tal, Jitendra Malik: A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics. Proceedings of the Eighth International Conference On Computer Vision (ICCV-01), Vancouver, British Columbia, Canada, July 7-14, 2001: 416-425. https://doi.org/10.1109/ICCV.2001.937655. <br>
 [10] Jia-Bin Huang, Abhishek Singh, Narendra Ahuja:Single image super-resolution from transformed self-exemplars.IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015, Boston, MA, USA, June 7-12, 2015.:5197-5206. https://doi.org/10.1109/CVPR.2015.7299156 <br>
 [11] Yusuke Matsui, Kota Ito, Yuji Aramaki, Azuma Fujimoto, Toru Ogawa, Toshihiko Yamasaki, Kiyoharu Aizawa:Sketch-based manga retrieval using manga109 dataset. Multim. Tools Appl. 76(20): 21811-21838 (2017). https://doi.org/10.1007/s11042-016-4020-z. <br>
-
-
-# Experimental Result
-## Ablation experiment results of FEL, MSFSConv, IIFL, and GFFL in MSFSRNet on the image denoising task with σ=50 and Kodak24 dataset
-![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Table%206-1.png)
-
-## Hyperparameter sensitivity analysis in denoising task
-
-![image text](https://github.com/hu-cv/MSFSRNet/blob/main/Figure11-1.jpg)
-
-Figure 1. (a) Investigation of C, (b) Investigation of D, (c) Investigation of G, (d) Investigation of S in denoising task.
